@@ -1,0 +1,548 @@
+[
+  {
+    "name": "Albedo",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Albedo_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Character_Albedo_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Alhaitham",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Alhaitham_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Character_Alhaitham_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Aloy",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Aloy_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Character_Aloy_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Amber",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Amber_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Character_Amber_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Arlecchino",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Arlecchino_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Arlecchino_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Baizhu",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Baizhu_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Character_Baizhu_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Barbara",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Barbara_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Character_Barbara_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Beidou",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Beidou_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Character_Beidou_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Bennett",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Bennett_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Character_Bennett_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Candace",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Candace_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Character_Candace_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Charlotte",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Charlotte_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Charlotte_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Chasca",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Chasca_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Character_Chasca_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Chevreuse",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Chevreuse_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Character_Chevreuse_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Chiori",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Chiori_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Chiori_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Chongyun",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Chongyun_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Character_Chongyun_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Clorinde",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Clorinde_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Character_Clorinde_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Collei",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Collei_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Character_Collei_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Cyno",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Cyno_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Character_Cyno_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Dehya",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Dehya_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Character_Dehya_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Diluc",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Character_Diluc_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Diona",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Diona_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Character_Diona_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Dori",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Dori_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Character_Dori_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Emilie",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Emilie_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Character_Emilie_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Eula",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Eula_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Character_Eula_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Faruzan",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Faruzan_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Character_Faruzan_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Fischl",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Fischl_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Character_Fischl_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Freminet",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Freminet_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Character_Freminet_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Furina",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Furina_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Character_Furina_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Gaming",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Gaming_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Character_Gaming_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Ganyu",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Ganyu_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Character_Ganyu_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Gorou",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Gorou_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Character_Gorou_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Jean",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Jean_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Character_Jean_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Kachina",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Kachina_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Character_Kachina_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Kaeya",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Kaeya_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Character_Kaeya_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Kaveh",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Kaveh_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Kaveh_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Keqing",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Keqing_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Character_Keqing_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Kinich",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Kinich_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Character_Kinich_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Kirara",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Kirara_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Character_Kirara_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Klee",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Klee_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Character_Klee_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Layla",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Layla_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Character_Layla_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Lisa",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Lisa_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Character_Lisa_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Lynette",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Lynette_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Lynette_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Lyney",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Lyney_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Character_Lyney_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Mika",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Mika_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Character_Mika_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Mona",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Mona_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Character_Mona_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Mualani",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Mualani_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Character_Mualani_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Nahida",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Nahida_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Character_Nahida_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Navia",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Navia_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Character_Navia_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Neuvillette",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Neuvillette_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Character_Neuvillette_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Nilou",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Nilou_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Character_Nilou_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Ningguang",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Ningguang_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Character_Ningguang_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Noelle",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Noelle_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Character_Noelle_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Ororon",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Ororon_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Character_Ororon_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Qiqi",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Qiqi_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Character_Qiqi_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Razor",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Razor_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Character_Razor_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Rosaria",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Rosaria_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Character_Rosaria_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Sayu",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Sayu_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Character_Sayu_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Sethos",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Sethos_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Character_Sethos_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Shenhe",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Shenhe_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Character_Shenhe_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Sigewinne",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Sigewinne_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Character_Sigewinne_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Sucrose",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Sucrose_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Character_Sucrose_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Tartaglia",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Tartaglia_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Character_Tartaglia_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Thoma",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Thoma_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Character_Thoma_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Tighnari",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Tighnari_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Tighnari_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Venti",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Venti_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Character_Venti_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Wanderer",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Wanderer_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Character_Wanderer_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Wriothesley",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Wriothesley_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Character_Wriothesley_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Xiangling",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Xianyun",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Xianyun_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Character_Xianyun_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Xiao",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Xiao_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Character_Xiao_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Xilonen",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Xilonen_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Character_Xilonen_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Xingqiu",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Xingqiu_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Character_Xingqiu_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Xinyan",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Xinyan_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Character_Xinyan_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Yanfei",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Yanfei_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Character_Yanfei_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Yaoyao",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Yaoyao_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Character_Yaoyao_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Yelan",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Yelan_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Yelan_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Yoimiya",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Yoimiya_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Character_Yoimiya_Full_Wish.png"
+    ]
+  },
+  {
+    "name": "Zhongli",
+    "images": [
+      "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Zhongli_Card.png",
+      "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Character_Zhongli_Full_Wish.png"
+    ]
+  }
+]
